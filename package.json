@@ -1,0 +1,10 @@
+{
+  "name"          : "parabear",
+  "description"   : "An experiment in stupid-simple HTML article text extraction.",
+  "homepage"      : "https://github.com/jsvine/parabear",
+  "keywords"      : ["text extraction", "article parsing"],
+  "author"        : "Jeremy Singer-Vine <jsvine@gmail.com>",
+  "repository"    : {"type": "git", "url": "git://github.com/jsvine/parabear.git"},
+  "main"          : "parabear.js",
+  "version"       : "0.1.0"
+}
